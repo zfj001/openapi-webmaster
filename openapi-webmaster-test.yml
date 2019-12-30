@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: org.gjt.mm.mysql.Driver
+    username: root
+    password: root
+    url: jdbc:mysql:///day32
